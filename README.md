@@ -1,4 +1,4 @@
----------------WEB HOSTING IS DOWN/EXPIRED----------------
+---------------NOTE: WEB HOSTING IS DOWN/EXPIRED----------------
 
 This is a requisite capstone project during college, entitled "WEB-BASED CUSTOMER RELATIONSHIP MANAGEMENT SYSTEM FOR GLEE TECH SOLUTIONS PROVIDER CO."
 The project is covers the features and functionality of Customer Relationship Management System (CRM) which technically focuses on the Customer perspective, relationship and retention to the business.
