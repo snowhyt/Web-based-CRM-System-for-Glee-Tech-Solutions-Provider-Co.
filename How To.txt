@@ -1,0 +1,11 @@
+Pre-requisites
+
+1. Install XAMPP
+2. Once installed, copy gleetech folder on this location C:\xampp\htdocs
+3. Open your browser, and type localhost/pypmyadmin
+4. Create a database named gleetechsystem
+5. Import the gleetechsystem.sql file
+
+To open the site
+Type in the url localhost/gleetech/home
+
